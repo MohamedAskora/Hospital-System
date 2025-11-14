@@ -1,3 +1,0 @@
-/home/askora/C++ projects/Hospital System/cmake-build-debug/CMakeFiles/Hospital_System.dir
-/home/askora/C++ projects/Hospital System/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/askora/C++ projects/Hospital System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
